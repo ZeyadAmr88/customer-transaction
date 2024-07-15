@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customer-transaction/static/css/main.7faeca42.css",
+    "main.js": "/customer-transaction/static/js/main.8b216b9d.js",
+    "index.html": "/customer-transaction/index.html",
+    "main.7faeca42.css.map": "/customer-transaction/static/css/main.7faeca42.css.map",
+    "main.8b216b9d.js.map": "/customer-transaction/static/js/main.8b216b9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7faeca42.css",
+    "static/js/main.8b216b9d.js"
+  ]
+}
