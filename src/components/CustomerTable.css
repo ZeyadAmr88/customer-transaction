@@ -1,0 +1,34 @@
+.customer-table-container {
+  margin: 20px 0;
+}
+
+.filter-input {
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.customer-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.customer-table th,
+.customer-table td {
+  padding: 12px;
+  text-align: left;
+}
+
+.customer-table th {
+  background-color: #f7f7f7;
+}
+
+.customer-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.customer-table tr:hover {
+  background-color: #f1f1f1;
+}

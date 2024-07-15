@@ -1,0 +1,10 @@
+.bar-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.bar-container h2 {
+  margin-bottom: 20px;
+}
